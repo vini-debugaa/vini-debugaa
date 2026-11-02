@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vinícius Moreira Silva
 
-<!--
-**vini-debugaa/vini-debugaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Estudante de Informática para Internet**
 
-Here are some ideas to get you started:
+Olá! Me chamo Vinícius Moreira Silva, tenho 16 anos e sou estudante do 2º ano do Ensino Médio integrado ao curso técnico de Informática para Internet. Sou interessado em tecnologia e desenvolvimento web. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvendo projetos para colocar em prática tudo que venho aprendendo. Meu objetivo é crescer profissionalmente na área de TI e me tornar um desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Linguagens e Tecnologias
+
+- HTML
+- CSS
+- JavaScript (em aprendizado)
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Lógica de Programação
+- JavaScript
+
+### 📫 Contato
+
+- LinkedIn: [Meu LinkedIn](COLOQUE_SEU_LINK_AQUI)
