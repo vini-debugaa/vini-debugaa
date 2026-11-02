@@ -8,10 +8,10 @@ Olá! Me chamo Vinícius Moreira Silva, tenho 16 anos e curso o 2º ano do Ensin
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/SEU-USUARIO">
+<a href="www.linkedin.com/in/vinícius-moreira-876b293b6">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-808080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
 </a>
-<a href="https://www.instagram.com/SEU-USUARIO">
+<a href="https://www.instagram.com/viini.zzx?srtk=dms5Nmc2NHBvcGJy">
 <img src="https://img.shields.io/badge/Instagram-Perfil-808080?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4">
 </a>
 <a href="https://github.com/vini-debugaa?tab=repositories">
