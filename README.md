@@ -10,11 +10,14 @@
 </p>
 
 <p>
-  <a href="https://github.com/vini-debugaa">
-    <img src="https://img.shields.io/badge/GitHub-vini--debugaa-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-0969DA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/vini-debugaa?tab=repositories">
-    <img src="https://img.shields.io/badge/MEUS-PROJETOS-0969DA?style=for-the-badge&logo=github" alt="Meus projetos">
+    <img src="https://img.shields.io/badge/Meus-Projetos-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos">
   </a>
 </p>
 
