@@ -30,5 +30,5 @@ Olá! Me chamo Vinícius Moreira Silva, tenho 16 anos e curso o 2º ano do Ensin
 <hr>
 
 <p align="center">
-<em>"Grandes resultados começam com pequenos passos e vontade de aprender."</em>
+<em>“É justo que muito custe o que muito vale.”</em>
 </p>
